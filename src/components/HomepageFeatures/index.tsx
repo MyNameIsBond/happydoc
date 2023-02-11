@@ -14,8 +14,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The Happy Programmer is a blog about programming, software development,
+        and technology. It&apos;s written by <a href="https://github.com/MyNameIsBond">Tony</a>.
       </>
     ),
   },
@@ -24,18 +24,19 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        The Happy Programmer focus on the things that matter, and we&apos;re
+        constantly adding new content. We&apos;re always open to feedback and
+        can answer any questions a user may have about our content.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Web Development',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        This documentation will help you to create a documentation website using NextJS. More courses you can find on
+        <a href="https://www.thehappyprogrammer.com"> The Happy Programmer</a>.
       </>
     ),
   },
